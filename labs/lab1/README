@@ -1,0 +1,14 @@
+Steven Cruz
+CMPS12M
+sicruz
+June 24
+
+Files submitted for Lab1:
+README
+makefile
+hello.java
+hello2.java
+
+- to run the makefile, type make. then the hello java files will be compiled
+and myHello will be made. myHello will run output myHello2. make clean removes
+the target files.
